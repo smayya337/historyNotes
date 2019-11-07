@@ -76,7 +76,7 @@
 * Biblical commentaries
 * Lots of hymns
 * Makes overtures to Rome
-## The Three "Alones"
+### The Three "Alones"
 * Salvation is by "faith alone" (*sola fide*)
 * Salvation depends on "grace alone" (*sola gratia*)
 * The "Bible alone" (*scriptura sola*) teaches what many need to know and is the single source of authority in religious matters
