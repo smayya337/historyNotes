@@ -67,3 +67,9 @@
 * Three major sessions between 1545 and 1563
 * Complicated by political situations and rivalries among Catholic groups
 * Still accomplished a lot
+  * Removed simony (buying/selling of Church offices)
+  * Removed nepotism (giving Church offices to family)
+  * Removed pluralism (holding multiple Church offices)
+  * Strict discipline within religious orders
+  * Education of the clergy
+  * Standardized Mass and catechism
