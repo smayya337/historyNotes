@@ -18,7 +18,7 @@
   * *Julius Excluded*
 * Freedom of will and improvement
 ## Humanism in Catholicism
-### Fransisco Cardinal Ximenees de Cisneros
+### Fransisco Cardinal Ximenes de Cisneros
 * Queen Isabella had him reform monastic orders in Spain
   * Particularly the Franciscans
 * Made him Archbishop of Toledo and Chancellor of Castile
