@@ -1,7 +1,7 @@
 # African Societies
 
 ## THe Migrations of Bantu Speakers
-* Spread of Bantu languge group began in Nigeria and Cameroom and went to the east and south, eventually covering one third of Africa
+* Spread of Bantu languge group began in Nigeria and Cameroon and went to the east and south, eventually covering one third of Africa
 * Started migration around 3000 BCE
   * Brought agriculture with them
     * Yams
