@@ -15,8 +15,8 @@ By the late 15th century, the Renaissance had reached England, France, Germany, 
 * After French invasion of Italy, many artists and writers left for the northern lands
 * Northern Europeans who studied in Italy also brought ideas back
 ### German Painters
-* Albrecht Durer traveled there to study - after returning, hw made woodcuts and engravings
-  * Durer inspired Hans Holbein the Younger to make extremely realistic portraits - Holbein emigrated to England and made portraits for the royal family
+* Albrecht Dürer traveled there to study - after returning, hw made woodcuts and engravings
+  * Dürer inspired Hans Holbein the Younger to make extremely realistic portraits - Holbein emigrated to England and made portraits for the royal family
 ### Flemish Painters
 * Support of wealthy merchants helped make Flanders Northern Europe's artistic center
 * Jan van Eyck used oil-based paints to develop techniques still used today
