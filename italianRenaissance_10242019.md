@@ -9,7 +9,7 @@
 * Signori: rulers of city-states and the states themselves
   * One man rule and then handed down to son
   * Their households would be courts
-  * They'd build big palaces where al political business was to be done
+  * They'd build big palaces where all political business was to be done
 * Patrons of the arts
   * Flexed their wealth and power with art and music
   
