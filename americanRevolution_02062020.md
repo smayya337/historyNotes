@@ -87,7 +87,7 @@
 * All 13 states needed to pass anything in the Continental Congress
   * Each state gets one vote
 ### Federalists vs. Anti-Federalists
-* Federalists wrote the *Federalists Acts* in favor of the new Constitution
+* Federalists wrote the *Federalist Papers* in favor of the new Constitution
   * Showed how it would solve many of the Articles' problems
   * Written by A. Hamilton, J. Madison, and J. Jay
   * Strong federal government
