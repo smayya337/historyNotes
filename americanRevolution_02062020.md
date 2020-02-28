@@ -11,7 +11,7 @@
 * Not paying attention to what the colonists are doing
 * Multiple phases
   * 1607 to 1696: England had no coherent imperial policy
-  * 1696 to 1763: Tried to form a coherent policy (Navigations Acts), but they didn't work out
+  * 1696 to 1763: Tried to form a coherent policy (Navigation Acts), but they didn't work out
   * 1763 onward: Actually tried to use a coherent imperial policy
 * With the Treaty of Paris (1763) settled, England became a major power
 * Royal Proclamation Line of 1763: Colonists cannot live west of the Appalachians
