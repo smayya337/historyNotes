@@ -50,7 +50,7 @@
 * Located in central Mexico
 * Major city: Tenochtitlan
 * Economy
-  * Floating gradens (chinampas) used for farming
+  * Floating gardens (chinampas) used for farming
   * Tributes
 * Government
   * Empire
