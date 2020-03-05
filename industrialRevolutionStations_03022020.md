@@ -30,7 +30,6 @@
 * Tanneries cause terrible smell from rotting animals
 * Severe decline in living conditions caused by Industrial Revolution
 ## Station 5: Was the Industrial Revolution good or bad for society?
-* Despite all the technological advancements of the period, the Industrial Revolution was ultimately bad for society because it led to a single-minded focus on profits at the expense of laborers and colonized people.
   * Pros
     * New methods of transportation
       * Railroads
