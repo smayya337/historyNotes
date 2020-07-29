@@ -1,8 +1,12 @@
 # Early American Civilizations
+
 ## Setting the Stage
+
 * How did people get to the Americas?
   * Migration through a land bridge connecting Siberia to Alaska furing the Ice Age
+
 ## Mayan Civilization
+
 * Located in southern Mexico
 * Major city: Chichen-Itza
   * Located in Central Mexico
@@ -28,7 +32,9 @@
   * Writing - hieroglyphics
   * Concept of zero
   * Calculated position of sun and moon
+
 ## Incan Civilization
+
 * Located in South America (Andes)
 * Mysterious city of Machu Picchu
   * Discovered in 1911
@@ -46,7 +52,9 @@
   * Animal sacrifices, but not human ones
 * Achievements
   * Record keeping system quipu (knotted strings)
+
 ## Aztec Civilization
+
 * Located in central Mexico
 * Major city: Tenochtitlan
 * Economy
@@ -62,7 +70,9 @@
 * Achievements
   * 365 day calendar
   * No written language
+
 ## Spanish Invasion
+
 * Spanish conquered Incas and Aztecs
   * Cortez destroyed the Aztecs
   * Pizarro destroyed the Incas

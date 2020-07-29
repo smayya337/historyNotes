@@ -1,13 +1,18 @@
 # The American Revolution
+
 ## Causes
+
 ### Seven Years' War
+
 * Basically a continuation of the War of Austrian Succession
 * Austria trying to get Silesia back
 * Became a global conflict, with European powers fighting in North America, the Caribbean, Europe, Africa, and India
 * Fighting ended with the British victorious, the French withdrawing from everywhere, and Britain broke
   * England got all French territory in N.A. east of the Mississippi
   * Spain got all territory west of the Mississippi
+
 ### Salutary Neglect
+
 * Not paying attention to what the colonists are doing
 * Multiple phases
   * 1607 to 1696: England had no coherent imperial policy
@@ -21,7 +26,7 @@
   * Currency Act (1764): No paper currency
   * Sugar Act (1764): Molasses tax in half, but tax on sugar
   * Stamp Act (1765): Tax on all paper products (with stamps to designate taxes)
-  * Quartering Act (1766): Soldiers could 
+  * Quartering Act (1766): Soldiers could
   * Protests
     * James Otis argued against writs of assistance and appealed to subjects' natural rights
     * "No taxation without representation!"
@@ -55,26 +60,36 @@
   * Suffolk Resolves: called for immediate repeal of the Intolerable Acts
   * Declaration of Rights and Greivances: acknowledged that Britain could not control colonies' internal affairs
   * Told colonies to prep militias and declared to meet in 5/1775 if rights not recognized
+
 ## The War
+
 * Fighting breaks out on 4/18/1775
 * Second Continental Congress met in 5/1775
   * Name George Washington as military commander
   * Sent "Olive Branch Petition" to George III pledging loyalty and asking king to intercede; King George dismisses it and has Parliament pass the Prohibitory Act (1775) declaring them in rebellion
 * *Common Sense* by Thomas Paine spread like wildfire throughout the colonies in 1776
+
 ### The Declaration of Independence
+
 * Inspired by the Glorious Revolution and Enlightenment writers
 * Recognized natural rights, compact theory (consent of the governed), and right of revolution
 * 27 grievances all addressed against the king
+
 ## The War Ends
+
 * Unpopular war in Britain
   * Heavy strain on economy
   * Lord North (a Tory) resigned and Whigs want to end war
+
 ### Treaty of Paris (1783)
+
 * Britain would recognize the US as an independent nation
 * The Mississippi River would be the country's western border
 * Americans would have fishing rights off the coast of Canada
 * Americans would pay debts owed to British merchants and honor Loyalist claims for property confiscated during the war
+
 ### The Articles of Confederation
+
 * Federal government could:
   * Wage war
   * Make peace
@@ -86,7 +101,9 @@
   * Regulate trade between states
 * All 13 states needed to pass anything in the Continental Congress
   * Each state gets one vote
+
 ### Federalists vs. Anti-Federalists
+
 * Federalists wrote the *Federalist Papers* in favor of the new Constitution
   * Showed how it would solve many of the Articles' problems
   * Written by A. Hamilton, J. Madison, and J. Jay

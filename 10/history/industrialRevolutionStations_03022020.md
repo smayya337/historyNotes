@@ -1,5 +1,7 @@
 # Industrial Revolution Stations 3/2/2020
+
 ## Station 1: Crash Course World History #32
+
 * Caused fundamental changes in society
   * Almost every aspect of life has been affected by the Industrial Revolution
 * Increase in production brought about by machines and characterized by new energy sources
@@ -16,7 +18,9 @@
 * Steam engines haven't really been improved upon
 * There are so many causes that the causes have causes
 * China and India were actually at about the same industrial level as Europe in 1800
+
 ## Station 2: Effects of the Industrial Revolution on the city of Manchester
+
 * Manchester is laid out such that the middle class is very separated from working people
 * All the mills are along the rivers
 * Old Town Manchester is really filthy
@@ -29,35 +33,37 @@
 * Cramped mills along rivers
 * Tanneries cause terrible smell from rotting animals
 * Severe decline in living conditions caused by Industrial Revolution
-## Station 5: Was the Industrial Revolution good or bad for society?
-  * Pros
-    * New methods of transportation
-      * Railroads
-      * Steamboats
-    * Interlocking parts introduced upgradability/modularity
-    * Agricultural tools
-      * Cotton gin
-      * Reaper
-    * New methods of communication
-      * Telephone
-      * Telegraph
-  * Cons
-    * Terrible living conditions for poor people
-      * Squalid areas
-      * Tiny homes
-      * Filth from homes and businesses everywhere
-      * Diseases
+
+## Station 5: Was the Industrial Revolution good or bad for society
+
+* Pros
+  * New methods of transportation
+    * Railroads
+    * Steamboats
+  * Interlocking parts introduced upgradability/modularity
+  * Agricultural tools
+    * Cotton gin
+    * Reaper
+  * New methods of communication
+    * Telephone
+    * Telegraph
+* Cons
+  * Terrible living conditions for poor people
+    * Squalid areas
+    * Tiny homes
+    * Filth from homes and businesses everywhere
+    * Diseases
+    * Pollution
+  * Child labor
+    * Children as young as 6 working 12+ hours a day
+    * Abused by factory owners
+    * Often purchased from orphanages/workhouses
+  * Inhumane factory conditions
+    * Owners tried to trick people out of wages
+    * Long hours
+    * Awful food
+    * Health/safety hazards
       * Pollution
-    * Child labor
-      * Children as young as 6 working 12+ hours a day
-      * Abused by factory owners
-      * Often purchased from orphanages/workhouses
-    * Inhumane factory conditions
-      * Owners tried to trick people out of wages
-      * Long hours
-      * Awful food
-      * Health/safety hazards
-        * Pollution
-        * Machines often injured/killed people
-    * The cotton gin made it easier to process high amounts of cotton, leading to an exacerbation of the horrors of chattel slavery in the United States
-    * In order to get resources for industrial use, European powers colonized places across Africa and Asia and waged many bloody wars
+      * Machines often injured/killed people
+  * The cotton gin made it easier to process high amounts of cotton, leading to an exacerbation of the horrors of chattel slavery in the United States
+  * In order to get resources for industrial use, European powers colonized places across Africa and Asia and waged many bloody wars

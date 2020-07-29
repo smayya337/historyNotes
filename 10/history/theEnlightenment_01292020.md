@@ -1,7 +1,9 @@
 # The Enlightenment - UNFINISHED
+
 * Reexamination of life and the world through the scientific method
 
 ## Ideas of the *Philosophes*
+
 * Multiple key ideas
   * Reason
   * Natural law
@@ -12,6 +14,7 @@
 * Intellectuals called *philosophes* (French, "philosophers")
 
 ### Montesquieu
+
 * French noble
 * Studied governments and wrote about them in *The Spirit of the Laws* (1748)
 * Stated that the English government functioned through separation of powers
@@ -19,6 +22,7 @@
 * Translation of his work into English led to his ideas showing up in the US Constitution
 
 ### Voltaire
+
 * French thinker from prosperous middle-class family
 * Critic of Christianity and the Church
 * Religiously tolerant
@@ -28,6 +32,7 @@
   * God allowed the universe to run according to its natural laws
 
 ### Diderot
+
 * Went to University of Paris
 * Father hoped he would become a lawyer or join the church, but he became a writer instead
 * Created the *Encyclopedia, or Classified Dictionary of the Sciences, Arts, and Trades*
@@ -38,6 +43,7 @@
     * Supported reforms
 
 ## New Social Sciences
+
 * *Philosophes* and their beliefs led to the social sciences
 * Modern economics founded by Physiocrats and Adam Smith
 * Physiocrats
@@ -53,6 +59,7 @@
     * Keep up necessary public works that individuals could not afford by themselves
 
 ## The Spread of Ideas
+
 * New generation had emerged by the 1760s
 * New voices meant new ideas
 * Increasingly literate society meant that Enlightenment ideas were accessible to more people
@@ -64,6 +71,7 @@
   * John Wesley started Methodism
 
 ### Rousseau
+
 * Wrote *Discourse on the Origins of the Inequality of Mankind*
   * Believed that people only adopted laws and government to defend their private property, but became enslaved by it and needed their freedom back
 * Wrote *The Social Contract*
@@ -72,6 +80,7 @@
 * Believed that both emotions and reason were important to human development
 
 ### Wollstonecraft
+
 * English writer
 * Wrote *Vindication of the Rights of Women*
   * Identified two problems with many of the views of Enlightenment thinkers
@@ -79,6 +88,7 @@
     * Enlightenment was based on an ideal of reason in all people, women and men, so women should have the same rights as men
 
 ### Fielding
+
 * English writer
 * Wrote novels about people lacking morals who survived using their wits
 * Wrote *The History of Tom Jones, a Foundling*

@@ -1,6 +1,7 @@
 # Absolutism and Louis XIV
 
 ## Absolutism
+
 * Rulers claim complete sovereignty over territories
 * Absolute monarch can:
   * Make laws
@@ -12,6 +13,7 @@
 * Absolute rulers were often Catholic
 
 ### The Absolutism of Louis XIV
+
 * Façade of the absolute monarch
   * Fancy clothes
   * Fancy symbols
@@ -19,6 +21,7 @@
 * Louis recognized the importance of theatrical demonstrations of sovereignty
 
 ## Louis XIV
+
 * Ruled 1661-1715
   * Technically ascended to the throne in 1638 but he was only 5
 * Made a highly centralized bureaucracy and national economy

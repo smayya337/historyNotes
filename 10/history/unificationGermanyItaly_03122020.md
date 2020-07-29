@@ -1,4 +1,5 @@
 # Unification of Germany and Italy
+
 * *Nationalism* is the idea that people should be loyal to their nation
   * Took off in the 1800s
   * Bonds that create a nation-state
@@ -25,7 +26,9 @@
 * In contrast to continental Europe, Britain:
   * Expanded political rights through legislative means
   * Made slavery illegal in the British Empire
+
 ## Unification of Germany
+
 * Germany was previously a collection of countries
   * East Prussia
   * West Prussia
@@ -52,7 +55,9 @@
   * The king must fight for his country (to the death if need be)
   * Used *Realpolitik* - "the end justifies the means"
 * The Franco-Prussian War led to the creation of the German state
+
 ## Unification of Italy
+
 * Italian liberals dreamt of a new political order based on ties of language, culture, and history
 * Significant regional differences and long-standing division of the Italian peninsula into different states
 * Much of the north was more industrialized while the south was more rural
@@ -75,7 +80,9 @@
   * They basically met and gave power to King Victor Emmanuel II
   * Conservatives took power and made a constitutional monarchy with limited electorate and relatively weak legislature
   * However, regional divisions still existed and it took a while for Italian identity to come together
+
 ## Establishing Nationalism
+
 * Adopted flags
 * Adopted national anthems
 * Adopted national holidays

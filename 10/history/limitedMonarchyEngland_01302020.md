@@ -1,4 +1,5 @@
 # Limited Monarchy and England
+
 * Political democracy rests on the principle that govenment derives power from the consent of the governed
 * Long history of rights in English history
   * Jury trial
@@ -7,7 +8,9 @@
 * England already a political anomaly
 
 ## English Civil War
+
 ### Origins
+
 * Government deeply in debt
   * Expenses of war with Spain
   * Rebellion in Ireland
@@ -17,6 +20,7 @@
 * Scottish James I not familiar with English subjects
 
 ### Charles I
+
 * Starts war with Spain
 * Anti-Calvinist influences
   * Scots (many Calvinists) get mad at Charles and invade England
@@ -28,6 +32,7 @@
   * Tries to arrest the House of Commons' leaders and fails
 
 ### King's Cavaliers vs. Parliament's Roundheads
+
 * Charles raises his own royalist forces, while Parliament creates their own army and levies taxes to pay for it
 * Cavaliers
   * Upper nobility and aristocrats
@@ -45,6 +50,7 @@
   * Removes all moderates from Parliament
 
 ## After the War
+
 * House of Lords abolished
 * England declared a Commonwealth
 * Rump Parliament useless, Cromwell has the power
